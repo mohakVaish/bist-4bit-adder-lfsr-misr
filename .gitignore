@@ -1,0 +1,8 @@
+*.vcd
+*.vvp
+*.out
+*.o
+*.log
+*.fst
+simv*
+.DS_Store
